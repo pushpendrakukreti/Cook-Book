@@ -1,8 +1,6 @@
 import React from 'react';
 import ReactPlayer from 'react-player';
 import './App.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import 'bootstrap/dist/js/bootstrap.bundle.min';
 
 function App() {
   return (
